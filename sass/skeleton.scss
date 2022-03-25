@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+html {
+    font-size: 62.5%;
+    background-color: $theme-baby-blue;
+}
+
 #header nav {
     display: none;
 }
@@ -28,7 +33,7 @@
 
 #article-header h1 {
     padding-top: 15px;
-    font-size: 25px;
+    font-size: 1.5rem;
     color: wheat;
 }
 
@@ -41,7 +46,7 @@
 .h2-home {
     text-align: center;
     padding-top: 15px;
-    font-size: 23px;
+    font-size: 1.2rem;
     color: #333;
 
 }
